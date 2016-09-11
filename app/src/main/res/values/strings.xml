@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mister-House</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_unsername">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_loggin_credentials">Invalid User name or Password</string>
+    <string name="try_again">Try again</string>
+    <string name="Opps">Opp!</string>
+    <string name="error_no_intertet_connectio">No internet connection</string>
+    <string name="no_data_avalible">No connection, no data available</string>
+    <string name="text_all_category">Show All</string>
+    <string name="status_on_line">on Line</string>
+    <string name="status_off_line">Off line</string>
+    <string name="quantity">"Quantity: %s"</string>
+    <string name="sessionToken">"sessionToken"</string>
+    <string name="list_products">"List Of All Products"</string>
+    <string name="title_popup_newitem">New Item</string>
+    <string name="message_popup_newitem">Are you sure?</string>
+    <string name="text_btn_yes">Yes</string>
+    <string name="description">Description</string>
+    <string name="btn_no">No</string>
+
+</resources>

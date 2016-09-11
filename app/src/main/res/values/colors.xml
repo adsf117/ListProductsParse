@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#448aff</color>
+    <color name="colorPrimaryDark">#2962ff</color>
+    <color name="colorAccent">#e53935</color>
+    <color name="backgraudlogin">#E3F2FD</color>
+
+    <color name="black_overlay">#ffffff</color>
+    <color name="textsColor">#66000000</color>
+    <color name="backgroundList">#ffffff</color>
+    <color name="backgroundapp">#dddddd</color>
+    <color name="onlinecolor">#aed581</color>
+</resources>
